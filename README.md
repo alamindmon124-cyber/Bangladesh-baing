@@ -1,4 +1,3 @@
-# Bangladesh-baing
 [
     {
         "device_id": "device123",
